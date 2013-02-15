@@ -5,13 +5,13 @@
                           menu_shadow_width="12"
                           icon_file=""
                           icon_alpha="1"
-                          axis_x="#dc0000"
-                          axis_y="#00dc00"
-                          axis_z="#0000dc">
+                          axis_x="#ea3232"
+                          axis_y="#5aca5a"
+                          axis_z="#3c70e8">
         <wcol_regular>
           <ThemeWidgetColors outline="#191919"
-                             inner="#999999ff"
-                             inner_sel="#646464ff"
+                             inner="#666666ff"
+                             inner_sel="#454545ff"
                              item="#191919ff"
                              text="#b8b8b8"
                              text_sel="#ffffff"
@@ -447,7 +447,7 @@
                       value_sliders="#000000"
                       view_sliders="#969696"
                       channels="#707070"
-                      channels_selected="#ffa200"
+                      channels_selected="#ffa500"
                       channel_group="#4f6549"
                       active_channels_group="#5a6036"
                       long_key="#ff9900"
@@ -455,7 +455,7 @@
                       frame_current="#60c040"
                       dopesheet_channel="#52606e"
                       dopesheet_subchannel="#7c8996"
-                      summary="#00000000">
+                      summary="#d2650000">
         <space>
           <ThemeSpaceGeneric back="#3b3b3b"
                              title="#000000"
