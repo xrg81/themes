@@ -5,13 +5,13 @@
                           menu_shadow_width="12"
                           icon_file=""
                           icon_alpha="1"
-                          axis_x="#dc0000"
-                          axis_y="#00dc00"
-                          axis_z="#0000dc">
+                          axis_x="#ea3232"
+                          axis_y="#5aca5a"
+                          axis_z="#3c70e8">
         <wcol_regular>
           <ThemeWidgetColors outline="#191919"
-                             inner="#999999ff"
-                             inner_sel="#646464ff"
+                             inner="#666666ff"
+                             inner_sel="#454545ff"
                              item="#191919ff"
                              text="#b8b8b8"
                              text_sel="#ffffff"
@@ -308,7 +308,7 @@
       <ThemeGraphEditor grid="#4b4b4b"
                         window_sliders="#969696"
                         channels_region="#707070"
-                        vertex="#000000"
+                        vertex="#ffab00"
                         vertex_select="#ff8500"
                         vertex_size="3"
                         handle_free="#000000"
@@ -327,7 +327,7 @@
                         handle_vertex_select="#ff8500"
                         handle_vertex_size="4"
                         channel_group="#4f6549"
-                        active_channels_group="#87b17d"
+                        active_channels_group="#5a6036"
                         dopesheet_channel="#52606e"
                         dopesheet_subchannel="#7c8996">
         <space>
@@ -354,8 +354,8 @@
         <space_list>
           <ThemeSpaceListGeneric list="#3b3b3b"
                                  list_title="#8b8b8b"
-                                 list_text="#8b8b8b"
-                                 list_text_hi="#ffffff">
+                                 list_text="#fffdfd"
+                                 list_text_hi="#ff7e00">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeGraphEditor>
@@ -447,15 +447,15 @@
                       value_sliders="#000000"
                       view_sliders="#969696"
                       channels="#707070"
-                      channels_selected="#60c040"
+                      channels_selected="#ffa500"
                       channel_group="#4f6549"
-                      active_channels_group="#87b17d"
-                      long_key="#0c0a0a"
+                      active_channels_group="#5a6036"
+                      long_key="#ff9900"
                       long_key_selected="#ff8c00"
                       frame_current="#60c040"
                       dopesheet_channel="#52606e"
                       dopesheet_subchannel="#7c8996"
-                      summary="#00000000">
+                      summary="#d2650000">
         <space>
           <ThemeSpaceGeneric back="#3b3b3b"
                              title="#000000"
@@ -480,8 +480,8 @@
         <space_list>
           <ThemeSpaceListGeneric list="#3b3b3b"
                                  list_title="#000000"
-                                 list_text="#000000"
-                                 list_text_hi="#ffffff">
+                                 list_text="#ffffff"
+                                 list_text_hi="#ff8800">
           </ThemeSpaceListGeneric>
         </space_list>
       </ThemeDopeSheet>
