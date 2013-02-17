@@ -593,7 +593,7 @@
                        selected_text="#757575"
                        cursor="#ffd800"
                        syntax_builtin="#99dbff"
-                       syntax_symbols="#4c4c4c"
+                       syntax_symbols="#979797"
                        syntax_special="#e8e85a"
                        syntax_preprocessor="#a880ed"
                        syntax_reserved="#bd5b97"
