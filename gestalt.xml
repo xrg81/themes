@@ -168,7 +168,7 @@
           <ThemeWidgetColors outline="#000000"
                              inner="#00000000"
                              inner_sel="#c28d45ff"
-                             item="#ffffffff"
+                             item="#ffffffbf"
                              text="#b8b8b8"
                              text_sel="#000000"
                              show_shaded="TRUE"
@@ -225,12 +225,12 @@
       </ThemeUserInterface>
     </user_interface>
     <view_3d>
-      <ThemeView3D grid="#555555"
-                   wire="#000000"
-                   lamp="#00000028"
+      <ThemeView3D grid="#252525"
+                   wire="#b1b1b1"
+                   lamp="#d3cc9128"
                    speaker="#000000"
-                   camera="#000000"
-                   empty="#000000"
+                   camera="#9f985d"
+                   empty="#6fa2a2"
                    object_selected="#f1f1f1"
                    object_active="#c28d45"
                    object_grouped="#083008"
@@ -243,7 +243,7 @@
                    edge_seam="#db2512"
                    edge_sharp="#00ffff"
                    edge_crease="#cc0099"
-                   edge_facesel="#4b4b4b"
+                   edge_facesel="#494949"
                    face="#69677942"
                    face_select="#81602e73"
                    face_dot="#c28d45"
@@ -296,8 +296,8 @@
             </panelcolors>
             <gradients>
               <ThemeGradientColors show_grad="TRUE"
-                                   gradient="#2a2a2a"
-                                   high_gradient="#3c3c3c">
+                                   gradient="#191919"
+                                   high_gradient="#252525">
               </ThemeGradientColors>
             </gradients>
           </ThemeSpaceGradient>
@@ -800,7 +800,8 @@
                     line_input="#ffffff"
                     line_info="#00aa00"
                     line_error="#dc6060"
-                    cursor="#dc6060">
+                    cursor="#dc6060"
+                    select="#ffffff30">
         <space>
           <ThemeSpaceGeneric back="#202020"
                              title="#000000"
